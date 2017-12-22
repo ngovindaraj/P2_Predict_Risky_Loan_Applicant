@@ -8,6 +8,6 @@ Below are the links to different sections of the project.
 
 [Raw data](https://www.kaggle.com/wendykan/lending-club-loan-data/data)
 
-[EDA and Prediction ipynb]()
+[EDA and Prediction ipynb](./blob/master/lendingclub.ipynb)
 
 [D3.js Visualizations]()
