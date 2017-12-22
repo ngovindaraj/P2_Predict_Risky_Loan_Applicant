@@ -7,5 +7,7 @@ To read more on this, visit my [blog](https://navinagovindaraj.wordpress.com/)
 Below are the links to different sections of the project.
 
 [Raw data](https://www.kaggle.com/wendykan/lending-club-loan-data/data)
+
 [EDA and Prediction ipynb]()
+
 [D3.js Visualizations]()
