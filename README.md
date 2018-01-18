@@ -2,7 +2,7 @@
 
 For this second project, LendingClub loan data was used from Kaggle in order to analyze and predict if a loan applicant is risky or not, before making an investment decision.
 
-To read more on this, visit my [blog](https://navinagovindaraj.wordpress.com/)
+To read more on this, visit my [blog](https://navinagovindaraj.wordpress.com/2017/11/23/predicting-risky-loan-applicants/)
 
 Below are the links to different sections of the project.
 
